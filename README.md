@@ -7,11 +7,11 @@
 </h4>
 
 <p align="center">
- <a href="#Sobre">Sobre</a> •
- <a href="#Layout">Layout</a> • 
- <a href="#tecenologias">Tecnologias</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autora">Autora</a>
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-layout-mobile-tablet-desktop">Layout</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-licença">Licença</a> • 
+ <a href="#-autora">Autora</a>
 </p>
 
 
