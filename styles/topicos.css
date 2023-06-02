@@ -1,7 +1,7 @@
 .topicos {
     background: var(--azul-degrade);
     text-align: center;
-    padding: 1em;
+    padding-bottom: 1.5em;
 }
 
 .topicos__titulo {
@@ -15,6 +15,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 1em;
     margin-top: 1.5em;
 }
 
@@ -23,12 +24,19 @@
 }
 
 .topicos__link {
+    display: flex;
+    align-items: center;
+    border-radius: 0;
     font-size: 14px;
     font-weight: 700;
     background-color: var(--laranja);
     color: var(--branco);
     text-decoration: none;
     padding: 1em;
+}
+
+.topicos__link:hover {
+    border-radius: 0;
 }
 
 @media screen and (min-width: 1024px) {

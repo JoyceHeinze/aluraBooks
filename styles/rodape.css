@@ -16,7 +16,6 @@ hr {
     .rodape {
         display: flex;
         justify-content: space-around;
-        padding-top: 4em;
     }
 
     .rodape__titulo {
@@ -53,7 +52,8 @@ hr {
 
 @media screen and (min-width: 1728px) {
     .rodape {
-        padding-bottom: 2em;
+        padding: 1em;
+        margin-top: 0;
     }
 
     .lista__rodape {
